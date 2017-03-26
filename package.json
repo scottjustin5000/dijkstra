@@ -21,8 +21,6 @@
     "url": "https://github.com/scottjustin5000/dijkstra/issues"
   },
   "homepage": "https://github.com/scottjustin5000/dijkstra#readme",
-  "dependencies": {
-  },
   "devDependencies": {
     "mocha": "^3.2.0",
     "should": "^11.1.2"

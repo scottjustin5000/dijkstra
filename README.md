@@ -16,7 +16,6 @@ g.addVertex('G', { C: 4, F: 9, H: 4 });
 g.addVertex('H', { E: 1, F: 3 });
 
 let path = g.shortestPath('A', 'H');
-// which returns
 // path = [ 'C', 'G', 'H' ]
 
 ```
