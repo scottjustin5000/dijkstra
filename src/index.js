@@ -1,4 +1,5 @@
 'use strict'
+
 let PriorityQueue = require('./priority-queue');
 
 class Graph {

@@ -25,4 +25,5 @@ class PriorityQueue {
 		return !this.nodes.length;
 	}
 }
+
 module.exports = PriorityQueue;
