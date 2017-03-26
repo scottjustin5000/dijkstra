@@ -1,0 +1,30 @@
+{
+  "name": "dijkstra",
+  "version": "1.0.0",
+  "description": "simple dijkstra's shortest path finding",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha './src/test.js' --require should"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottjustin5000/dijkstra.git"
+  },
+  "keywords": [
+    "dijkstra",
+    "path finding",
+    "graph traversal"
+  ],
+  "author": "scottjustin5000",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scottjustin5000/dijkstra/issues"
+  },
+  "homepage": "https://github.com/scottjustin5000/dijkstra#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "should": "^11.1.2"
+  }
+}
